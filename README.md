@@ -1,6 +1,7 @@
 # Developer Portfolios on `github.io`
 
 Welcome to the ultimate list of **Developer Portfolios** hosted on GitHub Pages (`github.io`)! 🌐✨
+[My LINKEDIN](https://linkedin.com/in/omidebrahimi1)
 
 ## About This Repository
 This repository is a curated collection of developer portfolios designed to inspire and help you create or improve your personal portfolio. These portfolios showcase creativity, technical skills, and diverse approaches to web development, all hosted on GitHub Pages.
@@ -8,7 +9,8 @@ This repository is a curated collection of developer portfolios designed to insp
 If you've built a portfolio and hosted it on `github.io`, we'd love to feature it here! Open a [Pull Request](./CONTRIBUTING.md) to add your portfolio to this list.
 
 # Sample Screenshots
-![](preview.png)
+
+![https://linkedin.com/in/omidebrahimi1](preview.png)
 
 ## Portfolios
 
@@ -47,7 +49,7 @@ If you've built a portfolio and hosted it on `github.io`, we'd love to feature i
 To have access to all the featured portfolios, you can clone this repository by running the following command in your terminal:
 
 ```bash
-git clone https://github.com/yourusername/developer-portfolios.git
+git clone https://github.com/AsmrCodeZ-YT/Pro-Portfolio-Website.git
 ```
 
 After cloning, you can explore the featured portfolios locally or navigate directly to their hosted links.
@@ -57,6 +59,5 @@ After cloning, you can explore the featured portfolios locally or navigate direc
 ## Contact
 If you have any questions or suggestions, feel free to reach out:
 
-- Email: [fake.email@example.com](mailto:fake.email@example.com)
-- Twitter: [@FakeUser](https://twitter.com/FakeUser)
+- Follow me in : [LINKEDIN](https://linkedin.com/in/omidebrahimi1)
 
