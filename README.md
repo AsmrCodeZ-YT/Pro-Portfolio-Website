@@ -11,6 +11,7 @@ If you've built a portfolio and hosted it on `github.io`, we'd love to feature i
 # Sample Screenshots
 
 ![https://linkedin.com/in/omidebrahimi1](preview.png)
+!["projec_1"](./src/p1.png)
 
 ## Portfolios
 
